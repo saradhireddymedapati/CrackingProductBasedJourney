@@ -3,5 +3,14 @@
 ## 1. Read until you understand.
 
 # Rules for Problem Solving.
-## 0. Put down logic on paper/board before implementing.
-## 1. Find all the possible cases before implementing.
+Path To Follow for getting better at DSA.
+
+1. Solve topic wise.
+
+2. Put it on board/paper before implementing code.
+
+3. Explain the logic.
+
+4. Do coding.
+
+Goal here is not to solve huge number of problems but to get clarity on what I am doing.
