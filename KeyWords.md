@@ -1,17 +1,3 @@
 # Adding keywords here so that I can check them later at some point of time what things I learnt or gone through.
 
-<code>Array</code>
-<code>Auxiliary Space</code>
-<code>Big O Notation</code>
-<code>Binary Search</code>
-<code>DSA</code>
-<code>Hashing</code>
-<code>Mountain Array</code>
-<code>Object Oriented Analysis</code>
-<code>Object Oriented Design</code>
-<code>Object Oriented Design Principles</code>
-<code>Object Oriented Design Patterns</code>
-<code>Object Oriented Programming</code>
-<code>Prefix Sum</code>
-<code>Space Complexity</code>
-<code>Time Complexity</code>
+<code style="font-size: 282%; color: #736933;">Abstracation</code> <code style="font-size: 271%; color: #17e2ba;">Array</code> <code style="font-size: 196%; color: #55daf2;">Auxiliary Space</code> <code style="font-size: 288%; color: #47ff30;">Big O Notation</code> <code style="font-size: 166%; color: #e1f6f3;">Binary Search</code> <code style="font-size: 111%; color: #52fd95;">Class</code> <code style="font-size: 189%; color: #0d7dff;">DSA</code> <code style="font-size: 122%; color: #56a27d;">Encapsulation</code> <code style="font-size: 288%; color: #3940cc;">Hashing</code> <code style="font-size: 111%; color: #139dc1;">Hierarchichal Inheritance</code> <code style="font-size: 143%; color: #2b4cee;">HybridInheritance</code> <code style="font-size: 252%; color: #535bfe;">Inheritance</code> <code style="font-size: 109%; color: #5ad139;">Inheritance</code> <code style="font-size: 295%; color: #ca1151;">Mountain Array</code> <code style="font-size: 297%; color: #b23b66;">MultiLevel Inheritance</code> <code style="font-size: 226%; color: #f9cfa6;">Multiple Inheritance</code> <code style="font-size: 199%; color: #1d1830;">Object</code> <code style="font-size: 182%; color: #b57c24;">Object Oriented Analysis</code> <code style="font-size: 202%; color: #18a9e5;">Object Oriented Design</code> <code style="font-size: 290%; color: #84ed1f;">Object Oriented Design Patterns</code> <code style="font-size: 149%; color: #19693f;">Object Oriented Design Principles</code> <code style="font-size: 163%; color: #3f284f;">Object Oriented Programming</code> <code style="font-size: 257%; color: #e38129;">Polymorphism</code> <code style="font-size: 136%; color: #118673;">Prefix Sum</code> <code style="font-size: 252%; color: #9848d7;">Single Inheritance</code> <code style="font-size: 200%; color: #bba02d;">Space Complexity</code> <code style="font-size: 189%; color: #fdfb83;">Time Complexity</code>
