@@ -6,7 +6,7 @@
 - code reviews
 # Data Structures & Alogrithms
 Following order and topics from [here](https://algomaster.io/practice/dsa-patterns)
-- Arrays
+- Arrays✔️
 - Strings
 - Bit Manipulation
 - Hash Tables
