@@ -1,8 +1,8 @@
 # Language & Tech Stack Mastery
 - Python
 - Threading
-- what is wheel while package installation?
-- How python swap works (a,b = b,a)
+- what is wheel while package installation?✔️
+- How python swap works (a,b = b,a)✔️
 - code reviews
 # Data Structures & Alogrithms
 Following order and topics from [here](https://algomaster.io/practice/dsa-patterns)
