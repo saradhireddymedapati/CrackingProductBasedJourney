@@ -8,7 +8,7 @@
 Following order and topics from [here](https://algomaster.io/practice/dsa-patterns)
 - Arrays✔️
 - Strings
-- Bit Manipulation
+- Bit Manipulation✔️
 - Hash Tables
 - Two Pointers
 - Prefix Sum
