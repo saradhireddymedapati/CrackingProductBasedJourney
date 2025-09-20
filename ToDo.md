@@ -17,7 +17,7 @@ Following order and topics from [here](https://algomaster.io/practice/dsa-patter
 # Object - Oriented Design & Principles
 - Object Oriented Design
 - Object Oriented Programming✔️
-- Obeject Oriented Design Principles
+- Obeject Oriented Design Principles✔️
 - Object Oriented Design Patterns
 - Object Oriented Analysis
 # Low - Level Design
